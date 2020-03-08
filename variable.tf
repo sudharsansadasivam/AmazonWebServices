@@ -3,7 +3,7 @@ variable "aws_region" {
 }
 
 variable "aws_access_key" {
-    default ="AKIAWRYZUSAXFF542D3E"
+    default =""
   
 }
 
@@ -17,5 +17,5 @@ variable "root_domain_name" {
   default = "d-o.io"
 }
 variable "secret_access_key"{
-    default ="+Ln0sYluHnx99/y80NhnBRPxGoxEK01j0OImZ7MU"
+    default =""
 }
